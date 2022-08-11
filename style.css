@@ -1,0 +1,149 @@
+
+/* font-family: 'JetBrains Mono', monospace; */
+/* font-family: 'Josefin Sans', sans-serif; */
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+img{
+  min-height: 100%;
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  background-size: cover
+  ;
+}
+
+
+.nav-item a {
+    font-size: 1.7rem;
+    color: black;
+    /* font-family: 'JetBrains Mono', monospace; */
+    font-family: 'Josefin Sans', sans-serif
+}
+.nav-pic{ margin: 0;
+  height: 20vh;
+}
+.nav-item a:hover{
+    color: #A4181B;
+}
+span{
+    color: #A4181B;
+   
+}
+
+.head{
+    font-size: 2em;
+}
+
+.sec-1{   
+
+    overflow: hidden;
+    
+}
+
+/* .pics{ position: absolute;
+  /* height: 65vh;
+  width: 30vw; */
+ 
+
+ .pic-1{ left: 10%;
+  position: absolute; 
+  ;
+}
+.pic-2{ 
+  position: absolute;
+  right: 10%;
+  top: 20%;
+}
+.pic-3{
+ position: absolute;
+  right: 30%;
+  top: 30%;
+}
+
+    
+
+
+.ff{  
+  overflow: hidden;
+width: 30vw;
+   position: absolute;
+   right: 0%;
+    bottom: -50%;
+   
+}
+
+/* section-2 */
+
+.pera{
+  font-weight: 400;
+  font-size: 0.8rem;
+}
+.pera-1{
+    font-size: 1.1rem;
+    color: black
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: #A4181B;
+}
+
+/* section-3 */
+  .section-bg{
+     background: #f4f4f4
+  }
+  .circle{   background: rgba(164, 24, 27,0.8);
+    height: 70px;
+    width: 70px;
+
+    border-radius: 50%;
+  }
+  .circle:hover{ transition: all ease 500ms ;
+    background: rgba(164, 24, 27)
+  }
+  
+  .card{ border-radius: 8%;
+;
+
+  }
+  .card-title{
+    font-size: 1.5rem;
+  }
+  /* section4 */
+
+  .photo img{ object-fit: cover;
+  
+  }
+
+ 
+  /* section-5 */
+  .card-2{ background: #D9D9D9;
+    border-radius: 0%;
+  }
+  .card-2 img{
+    border-radius: 0%;
+  }
+
+  /* section-6 */
+  .btn{
+    background: #A4181B;
+    color: white;
+    border-radius: 2rem;
+  }
+  /* footer */
+  .line{
+    border-right: 1px solid black;
+  } 
+  .foot{ padding-bottom: 10px;
+    border-bottom: 1px solid black;
+  }
+  .foot-2 a{
+    color: #A4181B;
+  }
+  .foot-2{ 
+    background: gray;
+  }
